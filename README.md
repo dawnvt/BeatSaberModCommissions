@@ -15,5 +15,5 @@ Repo for any and all pricing and commission info
 * [CustomMenuPointers](https://github.com/dawnvt/custommenupointers) - Custom menu pointers! (Currently only loads Saber Factory sabers.)
 
 ## Contact Info
-* Discord: Raine#1111
-* Email: raine.modcommissions@gmail.com
+* Discord: [Raine#1111](https://discordapp.com/users/813176414692966432)
+* Email: [raine.modcommissions@gmail.com](raine.modcommissions@gmail.com)
