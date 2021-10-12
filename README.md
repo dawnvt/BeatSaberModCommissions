@@ -8,7 +8,7 @@ Repo for any and all pricing and commission info
 * Updates to mods are not guaranteed, but I will try to update the mods that people have commissioned me for.
 
 ## Past work
-* [ScoreRequirement](https://github.com/dawnvt/scorerequirement) - Disabe score submission by toggling 5 individual requirements and limits
+* [ScoreRequirement](https://github.com/dawnvt/scorerequirement) - Disable score submission by toggling 5 individual requirements and limits
 * [CustomMenuPointers](https://github.com/dawnvt/custommenupointers) - Custom menu pointers! (Currently only loads Saber Factory sabers.)
 
 ## Contact Info
