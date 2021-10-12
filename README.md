@@ -3,7 +3,7 @@ Repo for any and all pricing and commission info
 
 ## Pricing and Terms of Service
 * My mods have a flat rate of US$15 an hour - Some mods take longer, others may be simple fixes
-  * I will always round to the nearest hour after the second hour.
+  * I will always round to the nearest hour after the first hour has gone by.
 * I reserve the right to deny any mods I think are too complex for me.
 * Updates to mods are not guaranteed, but I will try to update the mods that people have commissioned me for.
 * All mods will by default be open source, meaning they will be on my GitHub (The website youre on right now) for anyone to improve upon it.
