@@ -18,6 +18,10 @@ Repo for any and all pricing and commission info
 
 ## Work in Progress
 
+## General clauses
+* If you need the mod or web app quickly, that will add 15% of the products value to the final price.
+* I reserve the right to cancel the commission if you act like a nuisance to me, or hurry me without specifying a rushed commission.
+
 ## Payment
 * Payment will be done through PayPal only - I will do an estimate of how complex the work is, and give you a general estimate time wise before I start working.
   * Note: This ***will*** be somewhat inaccurate, and you will have to wait for the final estimate for the final price.
