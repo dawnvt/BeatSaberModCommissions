@@ -1,4 +1,4 @@
-# BeatSaberModCommissions
+# Beat Saber Mod Commission Info
 Repo for any and all pricing and commission info
 
 ## Pricing and Terms of Service
@@ -14,8 +14,12 @@ Repo for any and all pricing and commission info
 * [ScoreRequirement](https://github.com/dawnvt/scorerequirement) - Disable score submission by toggling 5 individual requirements and limits
 * [CustomMenuPointers](https://github.com/dawnvt/custommenupointers) - Custom menu pointers! (Currently only loads Saber Factory sabers.)
 
+# Web Development Info
+
+## Work in Progress
+
 ## Payment
-* Payment will be done through PayPal only - I will do an estimate of how complex the mod is, and give you a general estimate time wise before I start working.
+* Payment will be done through PayPal only - I will do an estimate of how complex the work is, and give you a general estimate time wise before I start working.
   * Note: This ***will*** be somewhat inaccurate, and you will have to wait for the final estimate for the final price.
 
 ## Contact Info
